@@ -5,7 +5,7 @@ The system provides an analytical dashboard for insights and a price-prediction 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Used-car pricing varies widely based on multiple factors like brand, mileage, age, fuel type, RTO state, and ownership.  
 This project solves the problem by:
@@ -17,7 +17,7 @@ This project solves the problem by:
 
 ---
 
-## 🔥 Features
+## Features
 
 | Component | Description |
 |---|---|
@@ -30,7 +30,7 @@ This project solves the problem by:
 
 ---
 
-## 📊 Dashboard Insights (Page-1)
+##  Dashboard Insights (Page-1)
 
 The dashboard provides deep analytical understanding of resale trends.
 
@@ -47,7 +47,7 @@ The dashboard provides deep analytical understanding of resale trends.
 
 ---
 
-## 💵 Price Prediction (Page-2)
+##  Price Prediction (Page-2)
 
 Users enter car features → model outputs a **realistic price-range** instead of a single fixed number.
 
@@ -61,7 +61,7 @@ Why range-based pricing?
 
 ---
 
-## 🧠 Machine Learning Workflow
+## Machine Learning Workflow
 
 1. Data Cleaning & Outlier removal  
 2. Feature Engineering  
