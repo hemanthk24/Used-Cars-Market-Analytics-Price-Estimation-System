@@ -1,0 +1,2 @@
+# Used-Cars-Market-Analytics-and-Price-Estimation-System
+A two-page Streamlit-based web application that provides a visual market analytics dashboard and an AI-powered resale price estimator for used cars. Users can analyze pricing trends with real-time filters and get a fair value price range using machine learning (XGBoost). Suitable for both buyers and sellers to make confident, data-driven decisions.
